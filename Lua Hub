@@ -1,0 +1,87 @@
+if game.PlaceId == 7655489843 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/x3fall3nangel/RobloxScript/main/Anime%20Battlegrounds%20X.lua",true))()
+end
+
+if game.PlaceId == 3102144307 then
+   loadstring(game:HttpGet("https://pastebin.com/raw/jgAmv6VR",true))()
+end
+
+if game.PlaceId == 8448735476 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",true))()
+end
+
+if game.PlaceId == 6846458508 then
+   loadstring(game:HttpGet("https://yakihub.xyz/scripts/yakihub.lua", true))()
+end
+
+if game.PlaceId == 6872265039 then
+   loadstring(game:HttpGet("https://pastebin.com/raw/eBiWeABt",true))()
+end
+
+if game.PlaceId == 2686500207 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/CreativeHell/public-scripts/master/abd-public.lua",true))()
+end
+
+if game.PlaceId == 8069117419 then
+   loadstring(game:HttpGet("https://pastebin.com/raw/jgAmv6VR",true))()
+end
+
+if game.PlaceId == 394506555 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/AltsegoD/script/master/GluePiece.lua",true))()
+end
+
+if game.PlaceId == 4872321990 then
+   loadstring(game:HttpGet("http://void-scripts.com/Scripts/islands_new.lua",true))()
+end
+
+if game.PlaceId == 1224212277 then
+   loadstring(game:HttpGet("https://gist.githubusercontent.com/TurkOyuncu99/811e25ec8cfcdaa9ae7026353288783c/raw/4b073a5c1a0a4e2ed7e2304c2e769eb440a371a9/h",true))()
+end
+
+if game.PlaceId == 8607531509 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/uzu01/lua/main/loader.lua",true))()
+end
+
+if game.PlaceId == 7056922815 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/10x00/Public-Scripts/main/Reaper%202.lua",true))()
+end
+
+if game.PlaceId == 8540346411 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/KrystekYTpv/Scripts/main/RebirthChampionsX.lua",true))()
+end
+
+if game.PlaceId == 2990100290 then
+   loadstring(game:HttpGet("https://pastebin.com/raw/Q3namzSq",true))()
+end
+
+if game.PlaceId == 7056922815 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/10x00/Public-Scripts/main/Reaper%202.lua",true))()
+end
+
+if game.PlaceId == 8540346411 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/KrystekYTpv/Scripts/main/RebirthChampionsX.lua",true))()
+end
+
+if game.PlaceId == 7728848215 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/PapierLP/Scripts/main/Slashing%20Simulator",true))()
+end
+
+if game.PlaceId == 5780309044 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/NormalDudeBro/ShootMeAwakening/main/main.lua",true))()
+end
+
+if game.PlaceId == 7560156054 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/LaDamage/releases/main/Clicker-Simulator.lua",true))()
+end
+
+if game.PlaceId == 5780309044 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/NormalDudeBro/ShootMeAwakening/main/main.lua",true))()
+end
+
+if game.PlaceId == 2809202155 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/F1sh1t/scripts/main/main.lua",true))()
+end
+
+if game.PlaceId == 7508789810 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Devious-Lick-Simulator-OP-Script",true))()
+end
